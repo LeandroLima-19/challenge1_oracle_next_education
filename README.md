@@ -1,8 +1,5 @@
 <h1 align="center"> Codificador / Decodificador de texto </h1>
 
-<p align="center">
-O projeto: Construir um Codificador / Decodificador de texto com Javascript, colocando em pratica os primeiros passos em lógica de programação, 
-fazendo também todo o layout com HTML e CSS. <br/>
 <p align="center"> Challenge - Oracle Next Education.</p>
 </p>
 
@@ -34,8 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
+Construir um Codificador / Decodificador de texto com Javascript, colocando em pratica os primeiros passos em lógica de programação, 
+fazendo também todo o layout com HTML e CSS.
 - [Acesse o projeto finalizado, online](https://leandrolima-19.github.io/challenge1_oracle_next_education/)
 
 ## 🔖 Layout
