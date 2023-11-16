@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Construir um Codificador / Decodificador de texto com Javascript, colocando em pratica os primeiros passos em lógica de programação, 
 fazendo também todo o layout com HTML e CSS.
-- [Acesse o projeto finalizado, online](https://leandrolima-19.github.io/challenge1_oracle_next_education/)
+- [Acesse o projeto finalizado, online](https://challenge-oracle-next-education.vercel.app/)
 
 ## 🔖 Layout
 
